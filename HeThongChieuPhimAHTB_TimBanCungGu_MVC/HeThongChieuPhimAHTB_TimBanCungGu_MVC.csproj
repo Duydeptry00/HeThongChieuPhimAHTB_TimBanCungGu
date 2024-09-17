@@ -17,4 +17,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\HeThongChieuPhimAHTB_TimBanCungGu_API\HeThongChieuPhimAHTB_TimBanCungGu_API.csproj" />
+  </ItemGroup>
+
 </Project>
